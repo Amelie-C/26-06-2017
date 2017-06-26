@@ -1,14 +1,17 @@
 p {
   width: 80em;
-  font-family: 'OptimusPrinceps.ttf';
+  font-family: 'font-p';
 }
 
 h1 {
-  font-family: 'PRINC___.TTF';
+  font-family: 'font-titre';
+  color: green;
 }
 @font-face {
-  font-family: 'OptimusPrinceps.ttf';  src: url("optimusprinceps/OptimusPrinceps.ttf");
-}
+  font-family: 'font-p';
+  src: url("fonts/amatic/Amatic-Bold.ttf");
+ }
 @font-face {
-  font-family: 'PRINC___.TTF'; src: url("http://www.dafont.com/fr/print-bv.font");
+  font-family: 'font-titre';
+  src: url("fonts/ostrich-sans/ostrich-regular.ttf");
 }
