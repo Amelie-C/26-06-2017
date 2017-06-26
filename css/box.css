@@ -1,0 +1,15 @@
+.ab, .cd{
+  float: left;
+  border: 20px solid black;
+  padding: 20px;
+  margin: 20px;
+  width: 80%;
+}
+
+.ab {
+  box-sizing: content-box;
+}
+
+.cd {
+  box-sizing: border-box;
+}

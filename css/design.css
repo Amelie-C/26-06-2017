@@ -1,0 +1,14 @@
+p {
+  width: 80em;
+  font-family: 'OptimusPrinceps.ttf';
+}
+
+h1 {
+  font-family: 'PRINC___.TTF';
+}
+@font-face {
+  font-family: 'OptimusPrinceps.ttf';  src: url("optimusprinceps/OptimusPrinceps.ttf");
+}
+@font-face {
+  font-family: 'PRINC___.TTF'; src: url("http://www.dafont.com/fr/print-bv.font");
+}
